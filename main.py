@@ -16,7 +16,7 @@ from handlers.user_handlers import (
 )
 from handlers.payment_handlers import callback_pay_method, callback_pay_amount, callback_bonus_claim
 from handlers.activate_handlers import (
-    callback_nav_activate, process_activate, callback_dl_start,
+    callback_nav_activate, cmd_activate, process_activate, callback_dl_start,
     callback_dl_file, callback_dl_qr
 )
 from handlers.admin_handlers import (
