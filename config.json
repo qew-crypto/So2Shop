@@ -1,0 +1,10 @@
+{
+  "BOT_TOKEN": "ВСТАВЬ_ТОКЕН_СЮДА",
+  "ADMIN_IDS": [123456789],
+  "START_BALANCE": 500,
+  "CURRENCY": "₽",
+  "SUPPORT_CONTACT": "@standfx_support",
+  "CHANNEL_LINK": "https://t.me/standfx_channel",
+  "VERSION": "4.2.1",
+  "DEMO_MODE": true
+}
